@@ -6,3 +6,4 @@ Quick start:
 $ npm install
 $ npm start
 ````
+chrome extension to save tabs links at one click.

@@ -1,4 +1,4 @@
-# coc8640b4ab7ea074c56f6bdc
+# Sinple Google Chrome extention to save the link of any tab you visit on one click only
 
 Quick start:
 

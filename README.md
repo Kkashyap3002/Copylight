@@ -1,4 +1,4 @@
-# Sinple Google Chrome extention to save the link of any tab you visit on one click only
+# Simple Google Chrome extension to save the link of any tab you visit on one click only
 
 Quick start:
 
